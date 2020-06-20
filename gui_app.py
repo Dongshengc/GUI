@@ -1,3 +1,4 @@
+# this is a comment
 from tkinter import *
 
 window = Tk()
